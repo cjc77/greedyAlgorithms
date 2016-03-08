@@ -1,0 +1,2 @@
+# greedyAlgorithms
+Greedy Algorithms
